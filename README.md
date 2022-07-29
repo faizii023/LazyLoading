@@ -1,5 +1,6 @@
 # LazyLoading
 Using Shimmer Facebook library
+
 #Adding this depedencies
 
 dependencies {
